@@ -1,0 +1,12 @@
+Something I find challenging about coding is finding the proper logic to achieve a specific task
+and if I have found the logic then it can be difficult putting it into code.
+
+
+I wouldn't say any project has dissapointed me, but there are plenty of things I'd change.
+I guess one thing I would try and change is shortening the code for my pig latin project
+
+
+Things to keep in mind for SEO purposes is proper HTML Structure, optimized navigation, responsive page
+
+
+To make a page more efficient you can make sure to optimize your databases, have a response page, minify your code

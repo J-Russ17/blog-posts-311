@@ -1,0 +1,18 @@
+I organize my JS by keeping multiple folders/files so I don't have just one main.js file
+
+
+My workflow usually starts with brainstorming how I want to go about a project,
+next I make up some psuedo-code so I have an idea of the logic I want to use, 
+then I turn that psuedo-code into real JS.
+
+
+When I can't work out a problem on my own I either go to W3Schools, MDN, JS311 Textbook, or ChatGPT
+
+
+The text editor I prefer the most is VS Code but that is probably due to the fact it is the only I have used.
+
+
+I could definitely do a better job keeping up with the latest developments of the web,
+the way I do that now is usually through YouTube videos or news articles
+
+
